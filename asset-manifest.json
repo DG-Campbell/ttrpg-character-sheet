@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ttrpg-character-sheet/static/css/main.39e0c60f.css",
+    "main.js": "/ttrpg-character-sheet/static/js/main.bee64872.js",
+    "index.html": "/ttrpg-character-sheet/index.html",
+    "main.39e0c60f.css.map": "/ttrpg-character-sheet/static/css/main.39e0c60f.css.map",
+    "main.bee64872.js.map": "/ttrpg-character-sheet/static/js/main.bee64872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e0c60f.css",
+    "static/js/main.bee64872.js"
+  ]
+}
