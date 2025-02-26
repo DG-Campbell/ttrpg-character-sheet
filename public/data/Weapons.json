@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Generic Weapon 1",
+        "weapon_id": 1
+    },
+    {
+        "name": "Generic Weapon 2",
+        "weapon_id": 2
+    },
+    {
+        "name": "Generic Weapon 3",
+        "weapon_id": 3
+    }
+]

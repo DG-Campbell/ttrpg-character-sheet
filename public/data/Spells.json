@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Generic Spell 1",
+        "spell_id": 1
+    },
+    {
+        "name": "Generic Spell 2",
+        "spell_id": 2
+    },
+    {
+        "name": "Generic Spell 3",
+        "spell_id": 3
+    }
+]

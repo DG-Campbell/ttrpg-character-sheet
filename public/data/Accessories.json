@@ -1,0 +1,14 @@
+[
+    {
+        "accessory_id": 1,
+        "name": "Generic Accessory 1"
+    },
+    {
+        "accessory_id": 2,
+        "name": "Generic Accessory 2"
+    },
+    {
+        "accessory_id": 3,
+        "name": "Generic Accessory 3"
+    }
+]

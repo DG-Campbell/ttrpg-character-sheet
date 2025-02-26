@@ -1,0 +1,296 @@
+[
+    {
+        "Description": "Increase Offensive Roll by 1",
+        "Main_Stat": "STR",
+        "Name": "Enraged",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Take 1 damage, gain WEAKENED 1.",
+        "Main_Stat": "STR",
+        "Name": "Bleed",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Increase damage by Proficiency Level.",
+        "Main_Stat": "STR",
+        "Name": "Vicious",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reduce Offensive Roll by 1",
+        "Main_Stat": "STR",
+        "Name": "Weakened",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Reduce stat Proficiency by 1.",
+        "Main_Stat": "STR",
+        "Name": "Break",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Push target 1 row",
+        "Main_Stat": "STR",
+        "Name": "Push",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Double the Proficiency Damage bonus to a critical hit.",
+        "Main_Stat": "DEX",
+        "Name": "Sever",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Deal 1 damage and apply EXHAUSTED 1 to target",
+        "Main_Stat": "DEX",
+        "Name": "Poison",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "All actions grant MOMENTUM 1.",
+        "Main_Stat": "DEX",
+        "Name": "Haste",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reduce roll needed for Critical by 1",
+        "Main_Stat": "DEX",
+        "Name": "Steady",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Increase Critical Damage by number of unique effects on target",
+        "Main_Stat": "DEX",
+        "Name": "Sabotage",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Select a second attack die from your roll. The defender contests it with the same roll as the primary attack. On success, the Off-hand attack deals 5 damage.",
+        "Main_Stat": "DEX",
+        "Name": "Off-hand",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Deal 1 damage and reduce stack of effect on target by 1.",
+        "Main_Stat": "WIS",
+        "Name": "Burn",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Target cannot attack you.",
+        "Main_Stat": "WIS",
+        "Name": "Fear",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Deal 1 Damage and target forfeits next action.",
+        "Main_Stat": "WIS",
+        "Name": "Shock",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Remove effect on target.",
+        "Main_Stat": "WIS",
+        "Name": "Purge",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Deal 1 damage for each new effect applied target.",
+        "Main_Stat": "WIS",
+        "Name": "Doubt",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Deal 1 damage and increase the stack of an effect on target by 1.",
+        "Main_Stat": "WIS",
+        "Name": "Freeze",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Reduce damage by Proficiency Level.",
+        "Main_Stat": "CON",
+        "Name": "Steadfast",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reduce damage by equipment level, if damage exceeds equipment level, gain BREAK ",
+        "Main_Stat": "CON",
+        "Name": "Block",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Take damage in another's place",
+        "Main_Stat": "CON",
+        "Name": "Protect",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Pull an enemy one row forward",
+        "Main_Stat": "CON",
+        "Name": "Pull",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Increase defense roll by 1",
+        "Main_Stat": "CON",
+        "Name": "Empowered",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Force target to attack you.",
+        "Main_Stat": "CON",
+        "Name": "Taunt",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Guarentee Defense Roll success, gain SLOWED 1.",
+        "Main_Stat": "COM",
+        "Name": "Dodge",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Cannot be directly targetted.  When you MOVE, gain STEADY 1.",
+        "Main_Stat": "COM",
+        "Name": "Hidden",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Cannot change rows.",
+        "Main_Stat": "COM",
+        "Name": "Rooted",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "All actions are taken at the end of the round.",
+        "Main_Stat": "COM",
+        "Name": "Slowed",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reduce Defense Roll by 1.",
+        "Main_Stat": "COM",
+        "Name": "Exhausted",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Take a MOVE action to change rows. Gain MOMENTUM 1.",
+        "Main_Stat": "COM",
+        "Name": "Escape",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Gain STEADFAST 1.  Return damage equal to your total damage reduction.",
+        "Main_Stat": "WIL",
+        "Name": "Reflect",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "If you would gain a debuff, you may apply it to another eligible stat.",
+        "Main_Stat": "WIL",
+        "Name": "Focused",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Prevent the next debuff.",
+        "Main_Stat": "WIL",
+        "Name": "Ward",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Gain 1 HP at the beginning of the next round.",
+        "Main_Stat": "WIL",
+        "Name": "Regenerate",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 1
+    },
+    {
+        "Description": "Retain half of your PRIME to the next round.",
+        "Main_Stat": "WIL",
+        "Name": "Control",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Apply ROOTED 1 and SLOWED 1 to target.",
+        "Main_Stat": "WIL",
+        "Name": "Stopped",
+        "Stack_Duration": 1,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Replace your Equipment die with a d20",
+        "Main_Stat": "STR",
+        "Name": "Titan",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reroll a die, take the new roll.",
+        "Main_Stat": "COM",
+        "Name": "Precise",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "If your chosen die is a natural 5 or higher, gain PRIME 1.",
+        "Main_Stat": "WIL",
+        "Name": "Ethereal",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Replace your Equipment die with a d20",
+        "Main_Stat": "CON",
+        "Name": "Titan",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "Reroll a die, take the new roll.",
+        "Main_Stat": "DEX",
+        "Name": "Precise",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    },
+    {
+        "Description": "If your chosen die is a natural 5 or higher, gain PRIME 1.",
+        "Main_Stat": "WIS",
+        "Name": "Ethereal",
+        "Stack_Duration": 0,
+        "Stack_Intensity": 0
+    }
+]
