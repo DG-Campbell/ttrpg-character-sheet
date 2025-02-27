@@ -1,7 +1,7 @@
 [
     {
         "Benefit": "STR Damage Increase",
-        "Stat": "STR",
+        "Stat": "STRENGTH",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -12,7 +12,7 @@
     },
     {
         "Benefit": "Base Vicious Damage",
-        "Stat": "STR",
+        "Stat": "STRENGTH",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -23,18 +23,18 @@
     },
     {
         "Benefit": "Ignore HEAVY",
-        "Stat": "STR",
+        "Stat": "STRENGTH",
         "Tier_0": 0,
         "Tier_1": 0,
         "Tier_2": 0,
-        "Tier_3": 1,
-        "Tier_4": 1,
-        "Tier_5": 1,
+        "Tier_3": YES,
+        "Tier_4": YES,
+        "Tier_5": YES,
         "Use": "Combat"
     },
     {
         "Benefit": "Carry Weight",
-        "Stat": "STR",
+        "Stat": "STRENGTH",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -45,7 +45,7 @@
     },
     {
         "Benefit": "Athletics",
-        "Stat": "STR",
+        "Stat": "STRENGTH",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -56,7 +56,7 @@
     },
     {
         "Benefit": "CON Damage Reduction",
-        "Stat": "CON",
+        "Stat": "CONSTITUTION",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -67,7 +67,7 @@
     },
     {
         "Benefit": "Bleed Reduction",
-        "Stat": "CON",
+        "Stat": "CONSTITUTION",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -78,7 +78,7 @@
     },
     {
         "Benefit": "Starting Momentum",
-        "Stat": "CON",
+        "Stat": "CONSTITUTION",
         "Tier_0": 0,
         "Tier_1": 0,
         "Tier_2": 1,
@@ -89,7 +89,7 @@
     },
     {
         "Benefit": "Blacksmithing",
-        "Stat": "CON",
+        "Stat": "CONSTITUTION",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -100,7 +100,7 @@
     },
     {
         "Benefit": "Endurance",
-        "Stat": "CON",
+        "Stat": "CONSTITUTION",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -111,7 +111,7 @@
     },
     {
         "Benefit": "DEX Damage Increase",
-        "Stat": "DEX",
+        "Stat": "DEXTERITY",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -122,7 +122,7 @@
     },
     {
         "Benefit": "Initial Maneuvers",
-        "Stat": "DEX",
+        "Stat": "DEXTERITY",
         "Tier_0": 1,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -133,7 +133,7 @@
     },
     {
         "Benefit": "Precision Rerolls",
-        "Stat": "DEX",
+        "Stat": "DEXTERITY",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -144,7 +144,7 @@
     },
     {
         "Benefit": "Acrobatics",
-        "Stat": "DEX",
+        "Stat": "DEXTERITY",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -155,7 +155,7 @@
     },
     {
         "Benefit": "Thievery",
-        "Stat": "DEX",
+        "Stat": "DEXTERITY",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -166,7 +166,7 @@
     },
     {
         "Benefit": "COM Damage Reduction",
-        "Stat": "COM",
+        "Stat": "COMPOSURE",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -177,7 +177,7 @@
     },
     {
         "Benefit": "Poison Reduction",
-        "Stat": "COM",
+        "Stat": "COMPOSURE",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -188,7 +188,7 @@
     },
     {
         "Benefit": "Starting Momentum",
-        "Stat": "COM",
+        "Stat": "COMPOSURE",
         "Tier_0": 0,
         "Tier_1": 0,
         "Tier_2": 1,
@@ -199,7 +199,7 @@
     },
     {
         "Benefit": "Survival",
-        "Stat": "COM",
+        "Stat": "COMPOSURE",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -210,7 +210,7 @@
     },
     {
         "Benefit": "Potion Craft",
-        "Stat": "COM",
+        "Stat": "COMPOSURE",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -221,7 +221,7 @@
     },
     {
         "Benefit": "WIS Damage Increase",
-        "Stat": "WIS",
+        "Stat": "WISDOM",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -232,7 +232,7 @@
     },
     {
         "Benefit": "Innate Prime",
-        "Stat": "WIS",
+        "Stat": "WISDOM",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -243,7 +243,7 @@
     },
     {
         "Benefit": "Prime Generation",
-        "Stat": "WIS",
+        "Stat": "WISDOM",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -254,7 +254,7 @@
     },
     {
         "Benefit": "Arcane Lore",
-        "Stat": "WIS",
+        "Stat": "WISDOM",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -265,7 +265,7 @@
     },
     {
         "Benefit": "Imbument",
-        "Stat": "WIS",
+        "Stat": "WISDOM",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -276,7 +276,7 @@
     },
     {
         "Benefit": "WIL Damage Reduction",
-        "Stat": "WIL",
+        "Stat": "WILLPOWER",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -287,7 +287,7 @@
     },
     {
         "Benefit": "Maximum Summons",
-        "Stat": "WIL",
+        "Stat": "WILLPOWER",
         "Tier_0": 1,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -298,7 +298,7 @@
     },
     {
         "Benefit": "Starting Momentum",
-        "Stat": "WIL",
+        "Stat": "WILLPOWER",
         "Tier_0": 0,
         "Tier_1": 0,
         "Tier_2": 1,
@@ -309,7 +309,7 @@
     },
     {
         "Benefit": "Spellwright",
-        "Stat": "WIL",
+        "Stat": "WILLPOWER",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -320,7 +320,7 @@
     },
     {
         "Benefit": "Acane Influence",
-        "Stat": "WIL",
+        "Stat": "WILLPOWER",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -331,7 +331,7 @@
     },
     {
         "Benefit": "Monologue",
-        "Stat": "CHA",
+        "Stat": "CHARISMA",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -342,7 +342,7 @@
     },
     {
         "Benefit": "Distract",
-        "Stat": "CHA",
+        "Stat": "CHARISMA",
         "Tier_0": 1,
         "Tier_1": 1,
         "Tier_2": 1,
@@ -353,7 +353,7 @@
     },
     {
         "Benefit": "Mock",
-        "Stat": "CHA",
+        "Stat": "CHARISMA",
         "Tier_0": 1,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -364,7 +364,7 @@
     },
     {
         "Benefit": "Diplomacy",
-        "Stat": "CHA",
+        "Stat": "CHARISMA",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -375,7 +375,7 @@
     },
     {
         "Benefit": "Disguise",
-        "Stat": "CHA",
+        "Stat": "CHARISMA",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -386,7 +386,7 @@
     },
     {
         "Benefit": "Potion Refill",
-        "Stat": "INS",
+        "Stat": "INSIGHT",
         "Tier_0": 1,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -397,7 +397,7 @@
     },
     {
         "Benefit": "Potion Potency",
-        "Stat": "INS",
+        "Stat": "INSIGHT",
         "Tier_0": 1,
         "Tier_1": 2,
         "Tier_2": 3,
@@ -408,7 +408,7 @@
     },
     {
         "Benefit": "Healing Potency",
-        "Stat": "INS",
+        "Stat": "INSIGHT",
         "Tier_0": 2,
         "Tier_1": 3,
         "Tier_2": 4,
@@ -419,7 +419,7 @@
     },
     {
         "Benefit": "Diagnosis",
-        "Stat": "INS",
+        "Stat": "INSIGHT",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
@@ -430,7 +430,7 @@
     },
     {
         "Benefit": "Disassembly",
-        "Stat": "INS",
+        "Stat": "INSIGHT",
         "Tier_0": 0,
         "Tier_1": 1,
         "Tier_2": 2,
