@@ -27,9 +27,9 @@
         "Tier_0": 0,
         "Tier_1": 0,
         "Tier_2": 0,
-        "Tier_3": YES,
-        "Tier_4": YES,
-        "Tier_5": YES,
+        "Tier_3": 1,
+        "Tier_4": 1,
+        "Tier_5": 1,
         "Use": "Combat"
     },
     {
